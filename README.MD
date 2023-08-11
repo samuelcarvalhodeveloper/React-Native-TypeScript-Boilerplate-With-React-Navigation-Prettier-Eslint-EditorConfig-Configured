@@ -15,7 +15,7 @@ React Native TypeScript Boilerplate With React Navigation Prettier Eslint Editor
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>Some times I need a quick project start up. To make this real I decided to create a fast React Native BoilerPlate to just programme, when this is all you want.</p>
+<p>Some times I need a quick project start up. To make this real I decided to create a fast React Native Boilerplate to just programme, when this is all you want.</p>
 
 <br />
 
