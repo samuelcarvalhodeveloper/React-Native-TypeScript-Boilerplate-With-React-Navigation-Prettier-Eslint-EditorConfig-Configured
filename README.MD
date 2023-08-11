@@ -31,6 +31,10 @@ React Native TypeScript Boilerplate With React Navigation Prettier Eslint Editor
 
 `npm run start`
 
+**To Run The Tests:**
+
+`npm run test`
+
 <br />
 
 <h3 id="technologies">🚀  Technologies:</h3>
